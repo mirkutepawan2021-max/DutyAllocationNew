@@ -22,6 +22,7 @@ const FileUpload = ({ onUploadSuccess }) => {
 
         try {
             const API_URL = import.meta.env.VITE_API_URL || '';
+            console.log('Using API URL:', API_URL || 'Same Origin');
             const response = await fetch(`${API_URL}/api/rotation/upload`, {
                 method: 'POST',
                 body: formData,

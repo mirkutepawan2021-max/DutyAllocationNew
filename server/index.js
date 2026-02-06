@@ -14,10 +14,20 @@ app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ limit: '50mb', extended: true }));
 
 // Database Connection
-// mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/master-depot-rotation')
-//     .then(() => console.log('MongoDB connected'))
-//     .catch(err => console.error('MongoDB connection error:', err));
-console.log('Running in local mode (JSON storage)');
+const connectDB = async () => {
+    try {
+        if (process.env.MONGO_URI) {
+            await mongoose.connect(process.env.MONGO_URI);
+            console.log('MongoDB connected');
+        } else {
+            console.log('Running in local mode (JSON storage) - WARNING: Data will not persist on Vercel');
+        }
+    } catch (err) {
+        console.error('MongoDB connection error:', err);
+    }
+};
+
+connectDB();
 
 // Routes
 app.get('/', (req, res) => {
@@ -28,6 +38,11 @@ app.get('/', (req, res) => {
 const rotationRoutes = require('./routes/rotationRoutes');
 app.use('/api/rotation', rotationRoutes);
 
-app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
-});
+// For Vercel, we need to export the app
+if (process.env.NODE_ENV !== 'production') {
+    app.listen(PORT, () => {
+        console.log(`Server running on port ${PORT}`);
+    });
+}
+
+module.exports = app;

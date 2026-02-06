@@ -2,10 +2,11 @@
     "name": "master-depot-rotation-root",
     "version": "1.0.0",
     "scripts": {
-        "install-client": "cd client && npm install",
-        "install-server": "cd server && npm install",
+        "install-client": "npm install --prefix client",
+        "install-server": "npm install --prefix server",
         "install-all": "npm run install-client && npm run install-server",
-        "build": "cd client && npm install && npm run build"
+        "postinstall": "npm run install-all",
+        "build": "npm run install-client && npm run build --prefix client"
     },
     "dependencies": {},
     "devDependencies": {}

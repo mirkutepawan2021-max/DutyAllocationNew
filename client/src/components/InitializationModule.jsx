@@ -107,8 +107,8 @@ const InitializationModule = () => {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     routes: routeData,
-                    drivers: driversList,
-                    conductors: conductorsList
+                    drivers: drivers,
+                    conductors: conductors
                 })
             });
             const data = await response.json();

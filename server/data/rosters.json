@@ -79807,5 +79807,6251 @@
       }
     ],
     "createdAt": "2026-02-06T09:56:00.329Z"
+  },
+  {
+    "id": "1770372183182",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverOff": "FRI",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverOff": "SAT",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      }
+    ],
+    "createdAt": "2026-02-06T10:03:03.182Z"
+  },
+  {
+    "id": "1770372472081",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverNo": "1099",
+        "driverReliever": "942",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1444",
+        "conductorReliever": "1358",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverNo": "1003",
+        "driverReliever": "942",
+        "driverRelieverOff": "SUN",
+        "driverOff": "TUE",
+        "conductorNo": "1719",
+        "conductorReliever": "1358",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverNo": "966",
+        "driverReliever": "942",
+        "driverRelieverOff": "SUN",
+        "driverOff": "WED",
+        "conductorNo": "1113",
+        "conductorReliever": "1358",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverNo": "948",
+        "driverReliever": "942",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "1598",
+        "conductorReliever": "1358",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverNo": "912",
+        "driverReliever": "942",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1170",
+        "conductorReliever": "1358",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverNo": "1142",
+        "driverReliever": "942",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1240",
+        "conductorReliever": "1358",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverNo": "1088",
+        "driverReliever": "990",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1244",
+        "conductorReliever": "1735",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverNo": "1023",
+        "driverReliever": "990",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1232",
+        "conductorReliever": "1735",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverNo": "1106",
+        "driverReliever": "990",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1176",
+        "conductorReliever": "1735",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverNo": "878",
+        "driverReliever": "990",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1667",
+        "conductorReliever": "1735",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverNo": "892",
+        "driverReliever": "990",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1243",
+        "conductorReliever": "1735",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverNo": "906",
+        "driverReliever": "990",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1352",
+        "conductorReliever": "1735",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverNo": "1008",
+        "driverReliever": "835",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1563",
+        "conductorReliever": "1234",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverNo": "944",
+        "driverReliever": "835",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1597",
+        "conductorReliever": "1234",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverNo": "843",
+        "driverReliever": "835",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "1545",
+        "conductorReliever": "1234",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverNo": "859",
+        "driverReliever": "835",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1695",
+        "conductorReliever": "1234",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverNo": "805",
+        "driverReliever": "835",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1699",
+        "conductorReliever": "1234",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverNo": "969",
+        "driverReliever": "835",
+        "driverRelieverOff": "SUN",
+        "driverOff": "WED",
+        "conductorNo": "1285",
+        "conductorReliever": "1234",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverNo": "813",
+        "driverReliever": "953",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1388",
+        "conductorReliever": "1746",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverNo": "997",
+        "driverReliever": "953",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1655",
+        "conductorReliever": "1746",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverNo": "1167",
+        "driverReliever": "953",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1643",
+        "conductorReliever": "1746",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverNo": "888",
+        "driverReliever": "953",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1732",
+        "conductorReliever": "1746",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverNo": "1039",
+        "driverReliever": "953",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1747",
+        "conductorReliever": "1746",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverNo": "1043",
+        "driverReliever": "953",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1453",
+        "conductorReliever": "1746",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverNo": "974",
+        "driverReliever": "1010",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1485",
+        "conductorReliever": "1220",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverNo": "960",
+        "driverReliever": "1010",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1166",
+        "conductorReliever": "1220",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverNo": "1097",
+        "driverReliever": "1010",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1235",
+        "conductorReliever": "1220",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverNo": "1129",
+        "driverReliever": "1010",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1286",
+        "conductorReliever": "1220",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverNo": "1175",
+        "driverReliever": "1010",
+        "driverRelieverOff": "SUN",
+        "driverOff": "WED",
+        "conductorNo": "1612",
+        "conductorReliever": "1220",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverNo": "1102",
+        "driverReliever": "1010",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1636",
+        "conductorReliever": "1220",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverNo": "901",
+        "driverReliever": "841",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1236",
+        "conductorReliever": "1603",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverNo": "937",
+        "driverReliever": "841",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1593",
+        "conductorReliever": "1603",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverNo": "1149",
+        "driverReliever": "841",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "1629",
+        "conductorReliever": "1603",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverNo": "941",
+        "driverReliever": "841",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1534",
+        "conductorReliever": "1603",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverNo": "1115",
+        "driverReliever": "841",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1210",
+        "conductorReliever": "1603",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverNo": "1066",
+        "driverReliever": "841",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1464",
+        "conductorReliever": "1603",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverNo": "913",
+        "driverReliever": "1181",
+        "driverRelieverOff": "SUN",
+        "driverOff": "TUE",
+        "conductorNo": "1521",
+        "conductorReliever": "1096",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverNo": "1033",
+        "driverReliever": "1181",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SAT",
+        "conductorNo": "1091",
+        "conductorReliever": "1096",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverNo": "897",
+        "driverReliever": "1181",
+        "driverRelieverOff": "SUN",
+        "driverOff": "WED",
+        "conductorNo": "1500",
+        "conductorReliever": "1096",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverNo": "1014",
+        "driverReliever": "1181",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "1319",
+        "conductorReliever": "1096",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverNo": "795",
+        "driverReliever": "1181",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1095",
+        "conductorReliever": "1096",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverNo": "916",
+        "driverReliever": "1181",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1239",
+        "conductorReliever": "1096",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverNo": "810",
+        "driverReliever": "1140",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SAT",
+        "conductorNo": "1705",
+        "conductorReliever": "1623",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverNo": "924",
+        "driverReliever": "1140",
+        "driverRelieverOff": "SUN",
+        "driverOff": "TUE",
+        "conductorNo": "1538",
+        "conductorReliever": "1623",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverNo": "1190",
+        "driverReliever": "1140",
+        "driverRelieverOff": "SUN",
+        "driverOff": "WED",
+        "conductorNo": "1178",
+        "conductorReliever": "1623",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverNo": "985",
+        "driverReliever": "1140",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "1101",
+        "conductorReliever": "1623",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverNo": "915",
+        "driverReliever": "1140",
+        "driverRelieverOff": "SUN",
+        "driverOff": "TUE",
+        "conductorNo": "1144",
+        "conductorReliever": "1623",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverNo": "845",
+        "driverReliever": "1140",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1701",
+        "conductorReliever": "1623",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverNo": "981",
+        "driverReliever": "811",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1348",
+        "conductorReliever": "1647",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverNo": "923",
+        "driverReliever": "811",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1049",
+        "conductorReliever": "1647",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverNo": "1186",
+        "driverReliever": "811",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1663",
+        "conductorReliever": "1647",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverNo": "1139",
+        "driverReliever": "811",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1454",
+        "conductorReliever": "1647",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverNo": "1024",
+        "driverReliever": "811",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1229",
+        "conductorReliever": "1647",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverNo": "879",
+        "driverReliever": "811",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1012",
+        "conductorReliever": "1647",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverNo": "876",
+        "driverReliever": "1174",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1738",
+        "conductorReliever": "1692",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverNo": "984",
+        "driverReliever": "1174",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1739",
+        "conductorReliever": "1692",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverNo": "1069",
+        "driverReliever": "1174",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1103",
+        "conductorReliever": "1692",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverNo": "1110",
+        "driverReliever": "1174",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1637",
+        "conductorReliever": "1692",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverNo": "882",
+        "driverReliever": "1174",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1544",
+        "conductorReliever": "1692",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverNo": "1044",
+        "driverReliever": "1174",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1600",
+        "conductorReliever": "1692",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverNo": "827",
+        "driverReliever": "1127",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1660",
+        "conductorReliever": "1468",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverNo": "1006",
+        "driverReliever": "1127",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1340",
+        "conductorReliever": "1468",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverNo": "858",
+        "driverReliever": "1127",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1741",
+        "conductorReliever": "1468",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverNo": "987",
+        "driverReliever": "1127",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1206",
+        "conductorReliever": "1468",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverNo": "861",
+        "driverReliever": "1127",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1743",
+        "conductorReliever": "1468",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverNo": "1068",
+        "driverReliever": "1127",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1740",
+        "conductorReliever": "1468",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverNo": "900",
+        "driverReliever": "964",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1168",
+        "conductorReliever": "1465",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverNo": "701",
+        "driverReliever": "964",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "1587",
+        "conductorReliever": "1465",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverNo": "1183",
+        "driverReliever": "964",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1418",
+        "conductorReliever": "1465",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverNo": "794",
+        "driverReliever": "964",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1510",
+        "conductorReliever": "1465",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverNo": "706",
+        "driverReliever": "964",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1327",
+        "conductorReliever": "1465",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverNo": "732",
+        "driverReliever": "964",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SUN",
+        "conductorNo": "1625",
+        "conductorReliever": "1465",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverNo": "860",
+        "driverReliever": "949",
+        "driverRelieverOff": "SUN",
+        "driverOff": "MON",
+        "conductorNo": "1686",
+        "conductorReliever": "2",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverNo": "872",
+        "driverReliever": "949",
+        "driverRelieverOff": "SUN",
+        "driverOff": "TUE",
+        "conductorNo": "1150",
+        "conductorReliever": "2",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverNo": "862",
+        "driverReliever": "949",
+        "driverRelieverOff": "SUN",
+        "driverOff": "SAT",
+        "conductorNo": "1599",
+        "conductorReliever": "2",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverNo": "914",
+        "driverReliever": "949",
+        "driverRelieverOff": "SUN",
+        "driverOff": "THU",
+        "conductorNo": "669",
+        "conductorReliever": "2",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverNo": "936",
+        "driverReliever": "949",
+        "driverRelieverOff": "SUN",
+        "driverOff": "FRI",
+        "conductorNo": "1",
+        "conductorReliever": "2",
+        "conductorRelieverOff": "SUN",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "956",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "970",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "971",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "802",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "965",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1126",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "994",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "996",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1001",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1026",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1055",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1073",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1080",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1111",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1149",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1172",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "964",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "964",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "695",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "648",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "1150",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "612",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "579",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "830",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      }
+    ],
+    "createdAt": "2026-02-06T10:07:52.081Z"
+  },
+  {
+    "id": "1770375448349",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "794",
+        "driverReliever": "862",
+        "conductorNo": "1",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "706",
+        "driverReliever": "862",
+        "conductorNo": "1500",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "732",
+        "driverReliever": "862",
+        "conductorNo": "1319",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "860",
+        "driverReliever": "862",
+        "conductorNo": "1095",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "949",
+        "driverReliever": "862",
+        "conductorNo": "1239",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "872",
+        "driverReliever": "862",
+        "conductorNo": "1705",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "914",
+        "driverReliever": "937",
+        "conductorNo": "1538",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "1129",
+        "driverReliever": "937",
+        "conductorNo": "1178",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1175",
+        "driverReliever": "937",
+        "conductorNo": "1101",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1102",
+        "driverReliever": "937",
+        "conductorNo": "1144",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "901",
+        "driverReliever": "937",
+        "conductorNo": "1701",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "841",
+        "driverReliever": "937",
+        "conductorNo": "1348",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "941",
+        "driverReliever": "897",
+        "conductorNo": "1049",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1115",
+        "driverReliever": "897",
+        "conductorNo": "1663",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1066",
+        "driverReliever": "897",
+        "conductorNo": "1454",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "913",
+        "driverReliever": "897",
+        "conductorNo": "1229",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1181",
+        "driverReliever": "897",
+        "conductorNo": "1012",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "1033",
+        "driverReliever": "897",
+        "conductorNo": "1738",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1014",
+        "driverReliever": "1190",
+        "conductorNo": "1739",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "795",
+        "driverReliever": "1190",
+        "conductorNo": "1103",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "916",
+        "driverReliever": "1190",
+        "conductorNo": "1637",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "810",
+        "driverReliever": "1190",
+        "conductorNo": "1544",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1140",
+        "driverReliever": "1190",
+        "conductorNo": "1600",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "924",
+        "driverReliever": "1190",
+        "conductorNo": "1660",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "985",
+        "driverReliever": "1186",
+        "conductorNo": "1340",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "915",
+        "driverReliever": "1186",
+        "conductorNo": "1741",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "845",
+        "driverReliever": "1186",
+        "conductorNo": "1206",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "981",
+        "driverReliever": "1186",
+        "conductorNo": "1743",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "811",
+        "driverReliever": "1186",
+        "conductorNo": "1740",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "923",
+        "driverReliever": "1186",
+        "conductorNo": "1168",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1139",
+        "driverReliever": "1069",
+        "conductorNo": "1587",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1024",
+        "driverReliever": "1069",
+        "conductorNo": "1418",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "879",
+        "driverReliever": "1069",
+        "conductorNo": "1510",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "876",
+        "driverReliever": "1069",
+        "conductorNo": "1327",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1174",
+        "driverReliever": "1069",
+        "conductorNo": "1625",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "984",
+        "driverReliever": "1069",
+        "conductorNo": "1686",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "1110",
+        "driverReliever": "858",
+        "conductorNo": "1150",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "882",
+        "driverReliever": "858",
+        "conductorNo": "1599",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "1044",
+        "driverReliever": "858",
+        "conductorNo": "669",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "827",
+        "driverReliever": "858",
+        "conductorNo": "1091",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverOff": "FRI",
+        "conductorOff": "THU",
+        "driverNo": "1127",
+        "driverReliever": "858",
+        "conductorNo": "1444",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "1006",
+        "driverReliever": "858",
+        "conductorNo": "1358",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverOff": "SAT",
+        "conductorOff": "FRI",
+        "driverNo": "987",
+        "driverReliever": "1167",
+        "conductorNo": "1113",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "861",
+        "driverReliever": "1167",
+        "conductorNo": "1598",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "1068",
+        "driverReliever": "1167",
+        "conductorNo": "1170",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "900",
+        "driverReliever": "1167",
+        "conductorNo": "1240",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "701",
+        "driverReliever": "1167",
+        "conductorNo": "1244",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1183",
+        "driverReliever": "1167",
+        "conductorNo": "1735",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "888",
+        "driverReliever": "1097",
+        "conductorNo": "1176",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "1039",
+        "driverReliever": "1097",
+        "conductorNo": "1667",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1043",
+        "driverReliever": "1097",
+        "conductorNo": "1243",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "974",
+        "driverReliever": "1097",
+        "conductorNo": "1352",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1010",
+        "driverReliever": "1097",
+        "conductorNo": "1563",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "960",
+        "driverReliever": "1097",
+        "conductorNo": "1234",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "936",
+        "driverReliever": "1126",
+        "conductorNo": "1545",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "956",
+        "driverReliever": "1126",
+        "conductorNo": "1695",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "970",
+        "driverReliever": "1126",
+        "conductorNo": "1699",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "971",
+        "driverReliever": "1126",
+        "conductorNo": "1285",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "802",
+        "driverReliever": "1126",
+        "conductorNo": "1388",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "965",
+        "driverReliever": "1126",
+        "conductorNo": "1746",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "994",
+        "driverReliever": "1080",
+        "conductorNo": "1643",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "996",
+        "driverReliever": "1080",
+        "conductorNo": "1732",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1001",
+        "driverReliever": "1080",
+        "conductorNo": "1747",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1026",
+        "driverReliever": "1080",
+        "conductorNo": "1453",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1055",
+        "driverReliever": "1080",
+        "conductorNo": "1485",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1073",
+        "driverReliever": "1080",
+        "conductorNo": "1220",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1111",
+        "driverReliever": "1150",
+        "conductorNo": "1235",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1149",
+        "driverReliever": "1150",
+        "conductorNo": "1286",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1172",
+        "driverReliever": "1150",
+        "conductorNo": "1612",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "964",
+        "driverReliever": "1150",
+        "conductorNo": "1636",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "695",
+        "driverReliever": "1150",
+        "conductorNo": "1236",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "648",
+        "driverReliever": "1150",
+        "conductorNo": "1603",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "612",
+        "driverReliever": "1003",
+        "conductorNo": "1629",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "579",
+        "driverReliever": "1003",
+        "conductorNo": "1534",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "830",
+        "driverReliever": "1003",
+        "conductorNo": "1210",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1099",
+        "driverReliever": "1003",
+        "conductorNo": "1464",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "942",
+        "driverReliever": "1003",
+        "conductorNo": "1521",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "966",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "948",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "912",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1142",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "1088",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "990",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "1023",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "1106",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "878",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "892",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "906",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "1008",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "835",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "944",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "843",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "859",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "805",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "969",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "813",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "953",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "997",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      }
+    ],
+    "createdAt": "2026-02-06T10:57:28.349Z"
+  },
+  {
+    "id": "1770375541946",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "794",
+        "driverReliever": "862",
+        "conductorNo": "1",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "706",
+        "driverReliever": "862",
+        "conductorNo": "1500",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "732",
+        "driverReliever": "862",
+        "conductorNo": "1319",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "860",
+        "driverReliever": "862",
+        "conductorNo": "1095",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "949",
+        "driverReliever": "862",
+        "conductorNo": "1239",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "872",
+        "driverReliever": "862",
+        "conductorNo": "1705",
+        "conductorReliever": "1623",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "914",
+        "driverReliever": "937",
+        "conductorNo": "1538",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "1129",
+        "driverReliever": "937",
+        "conductorNo": "1178",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1175",
+        "driverReliever": "937",
+        "conductorNo": "1101",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1102",
+        "driverReliever": "937",
+        "conductorNo": "1144",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "901",
+        "driverReliever": "937",
+        "conductorNo": "1701",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "841",
+        "driverReliever": "937",
+        "conductorNo": "1348",
+        "conductorReliever": "1647",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "941",
+        "driverReliever": "897",
+        "conductorNo": "1049",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1115",
+        "driverReliever": "897",
+        "conductorNo": "1663",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1066",
+        "driverReliever": "897",
+        "conductorNo": "1454",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "913",
+        "driverReliever": "897",
+        "conductorNo": "1229",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1181",
+        "driverReliever": "897",
+        "conductorNo": "1012",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "1033",
+        "driverReliever": "897",
+        "conductorNo": "1738",
+        "conductorReliever": "1692",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1014",
+        "driverReliever": "1190",
+        "conductorNo": "1739",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "795",
+        "driverReliever": "1190",
+        "conductorNo": "1103",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "916",
+        "driverReliever": "1190",
+        "conductorNo": "1637",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "810",
+        "driverReliever": "1190",
+        "conductorNo": "1544",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1140",
+        "driverReliever": "1190",
+        "conductorNo": "1600",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "924",
+        "driverReliever": "1190",
+        "conductorNo": "1660",
+        "conductorReliever": "1468",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "985",
+        "driverReliever": "1186",
+        "conductorNo": "1340",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "915",
+        "driverReliever": "1186",
+        "conductorNo": "1741",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "845",
+        "driverReliever": "1186",
+        "conductorNo": "1206",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "981",
+        "driverReliever": "1186",
+        "conductorNo": "1743",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "811",
+        "driverReliever": "1186",
+        "conductorNo": "1740",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "923",
+        "driverReliever": "1186",
+        "conductorNo": "1168",
+        "conductorReliever": "1465",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1139",
+        "driverReliever": "1069",
+        "conductorNo": "1587",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1024",
+        "driverReliever": "1069",
+        "conductorNo": "1418",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "879",
+        "driverReliever": "1069",
+        "conductorNo": "1510",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "876",
+        "driverReliever": "1069",
+        "conductorNo": "1327",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1174",
+        "driverReliever": "1069",
+        "conductorNo": "1625",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "984",
+        "driverReliever": "1069",
+        "conductorNo": "1686",
+        "conductorReliever": "2",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "1110",
+        "driverReliever": "858",
+        "conductorNo": "1150",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "882",
+        "driverReliever": "858",
+        "conductorNo": "1599",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "1044",
+        "driverReliever": "858",
+        "conductorNo": "669",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "827",
+        "driverReliever": "858",
+        "conductorNo": "1091",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverOff": "FRI",
+        "conductorOff": "THU",
+        "driverNo": "1127",
+        "driverReliever": "858",
+        "conductorNo": "1444",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "1006",
+        "driverReliever": "858",
+        "conductorNo": "1358",
+        "conductorReliever": "1719",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverOff": "SAT",
+        "conductorOff": "FRI",
+        "driverNo": "987",
+        "driverReliever": "1167",
+        "conductorNo": "1113",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "861",
+        "driverReliever": "1167",
+        "conductorNo": "1598",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "1068",
+        "driverReliever": "1167",
+        "conductorNo": "1170",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "900",
+        "driverReliever": "1167",
+        "conductorNo": "1240",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "701",
+        "driverReliever": "1167",
+        "conductorNo": "1244",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1183",
+        "driverReliever": "1167",
+        "conductorNo": "1735",
+        "conductorReliever": "1232",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "888",
+        "driverReliever": "1097",
+        "conductorNo": "1176",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "1039",
+        "driverReliever": "1097",
+        "conductorNo": "1667",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1043",
+        "driverReliever": "1097",
+        "conductorNo": "1243",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "974",
+        "driverReliever": "1097",
+        "conductorNo": "1352",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1010",
+        "driverReliever": "1097",
+        "conductorNo": "1563",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "960",
+        "driverReliever": "1097",
+        "conductorNo": "1234",
+        "conductorReliever": "1597",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "936",
+        "driverReliever": "1126",
+        "conductorNo": "1545",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "956",
+        "driverReliever": "1126",
+        "conductorNo": "1695",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "970",
+        "driverReliever": "1126",
+        "conductorNo": "1699",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "971",
+        "driverReliever": "1126",
+        "conductorNo": "1285",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "802",
+        "driverReliever": "1126",
+        "conductorNo": "1388",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "965",
+        "driverReliever": "1126",
+        "conductorNo": "1746",
+        "conductorReliever": "1655",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "994",
+        "driverReliever": "1080",
+        "conductorNo": "1643",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "996",
+        "driverReliever": "1080",
+        "conductorNo": "1732",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1001",
+        "driverReliever": "1080",
+        "conductorNo": "1747",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1026",
+        "driverReliever": "1080",
+        "conductorNo": "1453",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1055",
+        "driverReliever": "1080",
+        "conductorNo": "1485",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1073",
+        "driverReliever": "1080",
+        "conductorNo": "1220",
+        "conductorReliever": "1166",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1111",
+        "driverReliever": "1150",
+        "conductorNo": "1235",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1149",
+        "driverReliever": "1150",
+        "conductorNo": "1286",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "1172",
+        "driverReliever": "1150",
+        "conductorNo": "1612",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "964",
+        "driverReliever": "1150",
+        "conductorNo": "1636",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "695",
+        "driverReliever": "1150",
+        "conductorNo": "1236",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN",
+        "driverNo": "648",
+        "driverReliever": "1150",
+        "conductorNo": "1603",
+        "conductorReliever": "1593",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "612",
+        "driverReliever": "1003",
+        "conductorNo": "1629",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "579",
+        "driverReliever": "1003",
+        "conductorNo": "1534",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "830",
+        "driverReliever": "1003",
+        "conductorNo": "1210",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1099",
+        "driverReliever": "1003",
+        "conductorNo": "1464",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "942",
+        "driverReliever": "1003",
+        "conductorNo": "1521",
+        "conductorReliever": "1096",
+        "driverRelieverOff": "SUN",
+        "conductorRelieverOff": "SUN"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "966",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "948",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "912",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "1142",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "1088",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "990",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "1023",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "1106",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "878",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "892",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "906",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "1008",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "835",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "944",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "843",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "THU",
+        "conductorOff": "THU",
+        "driverNo": "859",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "FRI",
+        "conductorOff": "FRI",
+        "driverNo": "805",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "SAT",
+        "conductorOff": "SAT",
+        "driverNo": "969",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "MON",
+        "conductorOff": "MON",
+        "driverNo": "813",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "TUE",
+        "conductorOff": "TUE",
+        "driverNo": "953",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverOff": "WED",
+        "conductorOff": "WED",
+        "driverNo": "997",
+        "driverReliever": "",
+        "conductorNo": "",
+        "conductorReliever": "",
+        "driverRelieverOff": "",
+        "conductorRelieverOff": ""
+      }
+    ],
+    "createdAt": "2026-02-06T10:59:01.946Z"
+  },
+  {
+    "id": "1770375602864",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverOff": "FRI",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverOff": "SAT",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      }
+    ],
+    "createdAt": "2026-02-06T11:00:02.864Z"
+  },
+  {
+    "id": "1770375719737",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "1/1",
+        "time": "06:00",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "1/2",
+        "time": "07:30",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      }
+    ],
+    "createdAt": "2026-02-06T11:01:59.737Z"
+  },
+  {
+    "id": "1770375791113",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverOff": "FRI",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverOff": "SAT",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverOff": "WED",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverOff": "SUN",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverOff": "SAT",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverOff": "THU",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverOff": "FRI",
+        "conductorOff": "FRI"
+      }
+    ],
+    "createdAt": "2026-02-06T11:03:11.113Z"
+  },
+  {
+    "id": "1770375815965",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "53/21",
+        "time": "02:05",
+        "driverNo": "1444",
+        "driverReliever": "1358",
+        "driverRelieverOff": "FRI",
+        "driverOff": "MON",
+        "conductorNo": "1099",
+        "conductorReliever": "942",
+        "conductorRelieverOff": "FRI",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/1",
+        "time": "02:55",
+        "driverNo": "1719",
+        "driverReliever": "1358",
+        "driverRelieverOff": "FRI",
+        "driverOff": "TUE",
+        "conductorNo": "1003",
+        "conductorReliever": "942",
+        "conductorRelieverOff": "FRI",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "6/1",
+        "time": "03:25",
+        "driverNo": "1113",
+        "driverReliever": "1358",
+        "driverRelieverOff": "FRI",
+        "driverOff": "WED",
+        "conductorNo": "966",
+        "conductorReliever": "942",
+        "conductorRelieverOff": "FRI",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/1",
+        "time": "03:45",
+        "driverNo": "1598",
+        "driverReliever": "1358",
+        "driverRelieverOff": "FRI",
+        "driverOff": "THU",
+        "conductorNo": "948",
+        "conductorReliever": "942",
+        "conductorRelieverOff": "FRI",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "27/2",
+        "time": "04:04",
+        "driverNo": "1170",
+        "driverReliever": "1358",
+        "driverRelieverOff": "FRI",
+        "driverOff": "SUN",
+        "conductorNo": "912",
+        "conductorReliever": "942",
+        "conductorRelieverOff": "FRI",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/1",
+        "time": "04:05",
+        "driverNo": "1240",
+        "driverReliever": "1358",
+        "driverRelieverOff": "FRI",
+        "driverOff": "SUN",
+        "conductorNo": "1142",
+        "conductorReliever": "942",
+        "conductorRelieverOff": "FRI",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/2",
+        "time": "04:25",
+        "driverNo": "1244",
+        "driverReliever": "1735",
+        "driverRelieverOff": "TUE",
+        "driverOff": "FRI",
+        "conductorNo": "1088",
+        "conductorReliever": "990",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/3",
+        "time": "05:00",
+        "driverNo": "1232",
+        "driverReliever": "1735",
+        "driverRelieverOff": "TUE",
+        "driverOff": "MON",
+        "conductorNo": "1023",
+        "conductorReliever": "990",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "14/1",
+        "time": "05:01",
+        "driverNo": "1176",
+        "driverReliever": "1735",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1106",
+        "conductorReliever": "990",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/2",
+        "time": "05:02",
+        "driverNo": "1667",
+        "driverReliever": "1735",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "878",
+        "conductorReliever": "990",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "120/1",
+        "time": "05:05",
+        "driverNo": "1243",
+        "driverReliever": "1735",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "892",
+        "conductorReliever": "990",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/1",
+        "time": "05:05",
+        "driverNo": "1352",
+        "driverReliever": "1735",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "906",
+        "conductorReliever": "990",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "76/1",
+        "time": "05:35",
+        "driverNo": "1563",
+        "driverReliever": "1234",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1008",
+        "conductorReliever": "835",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/11",
+        "time": "05:35",
+        "driverNo": "1597",
+        "driverReliever": "1234",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "944",
+        "conductorReliever": "835",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/1",
+        "time": "05:35",
+        "driverNo": "1545",
+        "driverReliever": "1234",
+        "driverRelieverOff": "MON",
+        "driverOff": "THU",
+        "conductorNo": "843",
+        "conductorReliever": "835",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "146/3",
+        "time": "05:55",
+        "driverNo": "1695",
+        "driverReliever": "1234",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "859",
+        "conductorReliever": "835",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/4",
+        "time": "06:04",
+        "driverNo": "1699",
+        "driverReliever": "1234",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "805",
+        "conductorReliever": "835",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/1",
+        "time": "06:04",
+        "driverNo": "1285",
+        "driverReliever": "1234",
+        "driverRelieverOff": "MON",
+        "driverOff": "WED",
+        "conductorNo": "969",
+        "conductorReliever": "835",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/1",
+        "time": "06:05",
+        "driverNo": "1388",
+        "driverReliever": "1746",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "813",
+        "conductorReliever": "953",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/1",
+        "time": "06:15",
+        "driverNo": "1655",
+        "driverReliever": "1746",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "997",
+        "conductorReliever": "953",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/2",
+        "time": "06:15",
+        "driverNo": "1643",
+        "driverReliever": "1746",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1167",
+        "conductorReliever": "953",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/3",
+        "time": "06:25",
+        "driverNo": "1732",
+        "driverReliever": "1746",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "888",
+        "conductorReliever": "953",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/5",
+        "time": "06:45",
+        "driverNo": "1747",
+        "driverReliever": "1746",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1039",
+        "conductorReliever": "953",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/6",
+        "time": "06:55",
+        "driverNo": "1453",
+        "driverReliever": "1746",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1043",
+        "conductorReliever": "953",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "1/3",
+        "time": "06:55",
+        "driverNo": "1485",
+        "driverReliever": "1220",
+        "driverRelieverOff": "TUE",
+        "driverOff": "FRI",
+        "conductorNo": "974",
+        "conductorReliever": "1010",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "3/1",
+        "time": "06:55",
+        "driverNo": "1166",
+        "driverReliever": "1220",
+        "driverRelieverOff": "TUE",
+        "driverOff": "MON",
+        "conductorNo": "960",
+        "conductorReliever": "1010",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "102/7",
+        "time": "06:55",
+        "driverNo": "1235",
+        "driverReliever": "1220",
+        "driverRelieverOff": "TUE",
+        "driverOff": "FRI",
+        "conductorNo": "1097",
+        "conductorReliever": "1010",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "306/9",
+        "time": "07:01",
+        "driverNo": "1286",
+        "driverReliever": "1220",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1129",
+        "conductorReliever": "1010",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/2",
+        "time": "07:01",
+        "driverNo": "1612",
+        "driverReliever": "1220",
+        "driverRelieverOff": "TUE",
+        "driverOff": "WED",
+        "conductorNo": "1175",
+        "conductorReliever": "1010",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "53/7",
+        "time": "07:02",
+        "driverNo": "1636",
+        "driverReliever": "1220",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1102",
+        "conductorReliever": "1010",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/10",
+        "time": "07:04",
+        "driverNo": "1236",
+        "driverReliever": "1603",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "901",
+        "conductorReliever": "841",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/8",
+        "time": "07:15",
+        "driverNo": "1593",
+        "driverReliever": "1603",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "937",
+        "conductorReliever": "841",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "3/2",
+        "time": "07:25",
+        "driverNo": "1629",
+        "driverReliever": "1603",
+        "driverRelieverOff": "TUE",
+        "driverOff": "THU",
+        "conductorNo": "1149",
+        "conductorReliever": "841",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "306/10",
+        "time": "07:25",
+        "driverNo": "1534",
+        "driverReliever": "1603",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "941",
+        "conductorReliever": "841",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/9",
+        "time": "07:25",
+        "driverNo": "1210",
+        "driverReliever": "1603",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1115",
+        "conductorReliever": "841",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "240/9",
+        "time": "09:45",
+        "driverNo": "1464",
+        "driverReliever": "1603",
+        "driverRelieverOff": "TUE",
+        "driverOff": "MON",
+        "conductorNo": "1066",
+        "conductorReliever": "841",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "240/10",
+        "time": "10:01",
+        "driverNo": "1521",
+        "driverReliever": "1096",
+        "driverRelieverOff": "MON",
+        "driverOff": "TUE",
+        "conductorNo": "913",
+        "conductorReliever": "1181",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "87/4",
+        "time": "10:25",
+        "driverNo": "1091",
+        "driverReliever": "1096",
+        "driverRelieverOff": "MON",
+        "driverOff": "SAT",
+        "conductorNo": "1033",
+        "conductorReliever": "1181",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "91/3",
+        "time": "10:25",
+        "driverNo": "1500",
+        "driverReliever": "1096",
+        "driverRelieverOff": "MON",
+        "driverOff": "WED",
+        "conductorNo": "897",
+        "conductorReliever": "1181",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "240/12",
+        "time": "11:00",
+        "driverNo": "1319",
+        "driverReliever": "1096",
+        "driverRelieverOff": "MON",
+        "driverOff": "THU",
+        "conductorNo": "1014",
+        "conductorReliever": "1181",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "87/5",
+        "time": "11:02",
+        "driverNo": "1095",
+        "driverReliever": "1096",
+        "driverRelieverOff": "MON",
+        "driverOff": "FRI",
+        "conductorNo": "795",
+        "conductorReliever": "1181",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "102/8",
+        "time": "11:15",
+        "driverNo": "1239",
+        "driverReliever": "1096",
+        "driverRelieverOff": "MON",
+        "driverOff": "FRI",
+        "conductorNo": "916",
+        "conductorReliever": "1181",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/10",
+        "time": "11:55",
+        "driverNo": "1705",
+        "driverReliever": "1623",
+        "driverRelieverOff": "MON",
+        "driverOff": "SAT",
+        "conductorNo": "810",
+        "conductorReliever": "1140",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "206/10",
+        "time": "12:00",
+        "driverNo": "1538",
+        "driverReliever": "1623",
+        "driverRelieverOff": "MON",
+        "driverOff": "TUE",
+        "conductorNo": "924",
+        "conductorReliever": "1140",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "206/12",
+        "time": "12:04",
+        "driverNo": "1178",
+        "driverReliever": "1623",
+        "driverRelieverOff": "MON",
+        "driverOff": "WED",
+        "conductorNo": "1190",
+        "conductorReliever": "1140",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "206/13",
+        "time": "13:00",
+        "driverNo": "1101",
+        "driverReliever": "1623",
+        "driverRelieverOff": "MON",
+        "driverOff": "THU",
+        "conductorNo": "985",
+        "conductorReliever": "1140",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "206/14",
+        "time": "13:02",
+        "driverNo": "1144",
+        "driverReliever": "1623",
+        "driverRelieverOff": "MON",
+        "driverOff": "TUE",
+        "conductorNo": "915",
+        "conductorReliever": "1140",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "120/2",
+        "time": "13:05",
+        "driverNo": "1701",
+        "driverReliever": "1623",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "845",
+        "conductorReliever": "1140",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "8/9",
+        "time": "13:15",
+        "driverNo": "1348",
+        "driverReliever": "1647",
+        "driverRelieverOff": "TUE",
+        "driverOff": "FRI",
+        "conductorNo": "981",
+        "conductorReliever": "811",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "102/14",
+        "time": "13:15",
+        "driverNo": "1049",
+        "driverReliever": "1647",
+        "driverRelieverOff": "TUE",
+        "driverOff": "MON",
+        "conductorNo": "923",
+        "conductorReliever": "811",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "76/2",
+        "time": "13:35",
+        "driverNo": "1663",
+        "driverReliever": "1647",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1186",
+        "conductorReliever": "811",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/11",
+        "time": "13:45",
+        "driverNo": "1454",
+        "driverReliever": "1647",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1139",
+        "conductorReliever": "811",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "112/13",
+        "time": "13:55",
+        "driverNo": "1229",
+        "driverReliever": "1647",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1024",
+        "conductorReliever": "811",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "14/2",
+        "time": "14:05",
+        "driverNo": "1012",
+        "driverReliever": "1647",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "879",
+        "conductorReliever": "811",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "38/4",
+        "time": "14:05",
+        "driverNo": "1738",
+        "driverReliever": "1692",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "876",
+        "conductorReliever": "1174",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/12",
+        "time": "14:15",
+        "driverNo": "1739",
+        "driverReliever": "1692",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "984",
+        "conductorReliever": "1174",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "97/2",
+        "time": "14:15",
+        "driverNo": "1103",
+        "driverReliever": "1692",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1069",
+        "conductorReliever": "1174",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/13",
+        "time": "14:15",
+        "driverNo": "1637",
+        "driverReliever": "1692",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1110",
+        "conductorReliever": "1174",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/14",
+        "time": "14:45",
+        "driverNo": "1544",
+        "driverReliever": "1692",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "882",
+        "conductorReliever": "1174",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "113/2",
+        "time": "14:45",
+        "driverNo": "1600",
+        "driverReliever": "1692",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1044",
+        "conductorReliever": "1174",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "18/2",
+        "time": "14:45",
+        "driverNo": "1660",
+        "driverReliever": "1468",
+        "driverRelieverOff": "TUE",
+        "driverOff": "MON",
+        "conductorNo": "827",
+        "conductorReliever": "1127",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "53/16",
+        "time": "14:55",
+        "driverNo": "1340",
+        "driverReliever": "1468",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1006",
+        "conductorReliever": "1127",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/15",
+        "time": "15:00",
+        "driverNo": "1741",
+        "driverReliever": "1468",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "858",
+        "conductorReliever": "1127",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "146/4",
+        "time": "15:05",
+        "driverNo": "1206",
+        "driverReliever": "1468",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "987",
+        "conductorReliever": "1127",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "27/5",
+        "time": "15:05",
+        "driverNo": "1743",
+        "driverReliever": "1468",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "861",
+        "conductorReliever": "1127",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/17",
+        "time": "15:05",
+        "driverNo": "1740",
+        "driverReliever": "1468",
+        "driverRelieverOff": "TUE",
+        "driverOff": "SUN",
+        "conductorNo": "1068",
+        "conductorReliever": "1127",
+        "conductorRelieverOff": "TUE",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/20",
+        "time": "15:05",
+        "driverNo": "1168",
+        "driverReliever": "1465",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "900",
+        "conductorReliever": "964",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "108/3",
+        "time": "15:05",
+        "driverNo": "1587",
+        "driverReliever": "1465",
+        "driverRelieverOff": "MON",
+        "driverOff": "THU",
+        "conductorNo": "701",
+        "conductorReliever": "964",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "53/18",
+        "time": "15:15",
+        "driverNo": "1418",
+        "driverReliever": "1465",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "1183",
+        "conductorReliever": "964",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "53/19",
+        "time": "15:25",
+        "driverNo": "1510",
+        "driverReliever": "1465",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "794",
+        "conductorReliever": "964",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/20",
+        "time": "16:02",
+        "driverNo": "1327",
+        "driverReliever": "1465",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "706",
+        "conductorReliever": "964",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "306/19",
+        "time": "16:05",
+        "driverNo": "1625",
+        "driverReliever": "1465",
+        "driverRelieverOff": "MON",
+        "driverOff": "SUN",
+        "conductorNo": "732",
+        "conductorReliever": "964",
+        "conductorRelieverOff": "MON",
+        "conductorOff": "SUN"
+      },
+      {
+        "dutyNo": "6/4",
+        "time": "16:15",
+        "driverNo": "1686",
+        "driverReliever": "SPARE",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "860",
+        "conductorReliever": "949",
+        "conductorRelieverOff": "WED",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "91/5",
+        "time": "17:35",
+        "driverNo": "1150",
+        "driverReliever": "SPARE",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "872",
+        "conductorReliever": "949",
+        "conductorRelieverOff": "WED",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "91/6",
+        "time": "18:25",
+        "driverNo": "1599",
+        "driverReliever": "SPARE",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "862",
+        "conductorReliever": "949",
+        "conductorRelieverOff": "WED",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "1/7",
+        "time": "19:05",
+        "driverNo": "669",
+        "driverReliever": "SPARE",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "914",
+        "conductorReliever": "949",
+        "conductorRelieverOff": "WED",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "1/8",
+        "time": "19:15",
+        "driverNo": "SPARE",
+        "driverReliever": "SPARE",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "936",
+        "conductorReliever": "949",
+        "conductorRelieverOff": "WED",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "956",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "970",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "971",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "802",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "965",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "1126",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "994",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "996",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "1001",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "1026",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "1055",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "1073",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "1080",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "1111",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "1149",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "1172",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "964",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "964",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "MON",
+        "conductorNo": "695",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "TUE",
+        "conductorNo": "648",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "TUE"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "WED",
+        "conductorNo": "1150",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "WED"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "THU",
+        "conductorNo": "612",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "THU"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "FRI",
+        "conductorNo": "579",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "FRI"
+      },
+      {
+        "dutyNo": "SPARE",
+        "time": "",
+        "driverNo": "",
+        "driverReliever": "",
+        "driverRelieverOff": "",
+        "driverOff": "SAT",
+        "conductorNo": "830",
+        "conductorReliever": "",
+        "conductorRelieverOff": "",
+        "conductorOff": "SAT"
+      }
+    ],
+    "createdAt": "2026-02-06T11:03:35.965Z"
   }
 ]

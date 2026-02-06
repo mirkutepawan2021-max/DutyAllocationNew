@@ -42,10 +42,18 @@ const allocateStaff = (routes, staffList, type = 'Driver') => {
         // 2. Assign Reliever for this block
         const relieverId = staffIndex < availableStaff.length ? availableStaff[staffIndex++] : 'SPARE';
 
-        // 3. FORCE Reliever Off Day = 'SUN'
-        // Per user request, Relievers are always off on Sunday.
-        // Spares are used to cover Sunday duties if Regulars are also off on Sunday.
-        const relieverOff = 'SUN';
+        // 3. Calculate Reliever Off Day (Complementary Day)
+        // Find the day that is NOT in the block's off days (the day the Reliever isn't working)
+        const daysOfWeek = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
+        const blockOffDays = [];
+
+        for (let k = i; k < blockEnd; k++) {
+            const offDay = type === 'Driver' ? allocatedRoutes[k].driverOff : allocatedRoutes[k].conductorOff;
+            if (offDay) blockOffDays.push(offDay);
+        }
+
+        let relieverOff = daysOfWeek.find(d => !blockOffDays.includes(d));
+        if (!relieverOff) relieverOff = 'SUN'; // Fallback
 
         // 4. Apply Reliever to rows
         for (let j = i; j < blockEnd; j++) {

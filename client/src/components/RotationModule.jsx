@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { getApiUrl } from '../apiConfig';
 import FileUpload from './FileUpload';
 import RosterTable from './RosterTable';
 
@@ -17,7 +18,7 @@ const RotationModule = () => {
     const handleGenerate = async () => {
         setLoading(true);
         try {
-            const API_URL = import.meta.env.VITE_API_URL || '';
+            const API_URL = getApiUrl();
             const response = await fetch(`${API_URL}/api/rotation/generate`, {
                 method: 'POST',
                 headers: {

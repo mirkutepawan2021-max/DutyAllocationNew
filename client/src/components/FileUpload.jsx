@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { getApiUrl } from '../apiConfig';
 
 const FileUpload = ({ onUploadSuccess }) => {
     const [file, setFile] = useState(null);
@@ -21,7 +22,7 @@ const FileUpload = ({ onUploadSuccess }) => {
         formData.append('rosterFile', file);
 
         try {
-            const API_URL = import.meta.env.VITE_API_URL || '';
+            const API_URL = getApiUrl();
             console.log('Using API URL:', API_URL || 'Same Origin');
             const response = await fetch(`${API_URL}/api/rotation/upload`, {
                 method: 'POST',

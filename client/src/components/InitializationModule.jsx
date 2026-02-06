@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { getApiUrl } from '../apiConfig';
 import * as XLSX from 'xlsx';
 import FileUpload from './FileUpload';
 import RosterTable from './RosterTable';
@@ -86,17 +87,21 @@ const InitializationModule = () => {
     const handleGenerate = async () => {
         setLoading(true);
         try {
-            const driversList = staffData.drivers.split(/[\n,\s]+/)
+            const drivers = staffData.drivers.split(/[\n,\s]+/)
                 .map(s => s.trim())
                 .filter(Boolean)
                 .filter(s => s.toUpperCase() !== 'SPARE'); // Filter out "SPARE" text
 
-            const conductorsList = staffData.conductors.split(/[\n,\s]+/)
+            const conductors = staffData.conductors.split(/[\n,\s]+/)
                 .map(s => s.trim())
                 .filter(Boolean)
                 .filter(s => s.toUpperCase() !== 'SPARE'); // Filter out "SPARE" text
 
-            const API_URL = import.meta.env.VITE_API_URL || '';
+            const allStaff = [...drivers, ...conductors]
+                .filter(Boolean)
+                .filter(s => s.toUpperCase() !== 'SPARE'); // Filter out "SPARE" text
+
+            const API_URL = getApiUrl();
             const response = await fetch(`${API_URL}/api/rotation/init/generate`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },

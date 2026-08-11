@@ -29,13 +29,26 @@ const FileUpload = ({ onUploadSuccess }) => {
                 body: formData,
             });
 
-            const data = await response.json();
+            // 1. Read raw response text first to handle empty responses or HTML error pages safely
+            const responseText = await response.text();
 
+            // 2. Parse JSON only if valid body text exists
+            let data = {};
+            if (responseText) {
+                try {
+                    data = JSON.parse(responseText);
+                } catch (e) {
+                    console.error('Server returned non-JSON output:', responseText);
+                }
+            }
+
+            // 3. Handle HTTP status code
             if (response.ok) {
                 setMessage('Upload successful!');
                 if (onUploadSuccess) onUploadSuccess(data.data);
             } else {
-                setMessage(`Upload failed: ${data.error}`);
+                const errorDetail = data.error || data.message || `Server error (${response.status})`;
+                setMessage(`Upload failed: ${errorDetail}`);
             }
         } catch (error) {
             setMessage('Network error detected.');
@@ -68,7 +81,11 @@ const FileUpload = ({ onUploadSuccess }) => {
                     {uploading ? 'Uploading...' : 'Upload'}
                 </button>
             </div>
-            {message && <p className={`mt-3 text-sm ${message.includes('success') ? 'text-green-600' : 'text-red-600'}`}>{message}</p>}
+            {message && (
+                <p className={`mt-3 text-sm ${message.includes('success') ? 'text-green-600' : 'text-red-600'}`}>
+                    {message}
+                </p>
+            )}
         </div>
     );
 };

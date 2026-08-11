@@ -2,8 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '../data');
-const DATA_FILE = path.join(DATA_DIR, 'rosters.json');
-
+const DATA_FILE = path.join(os.tmpdir(), 'rosters.json');
 // Ensure data directory exists
 if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR);

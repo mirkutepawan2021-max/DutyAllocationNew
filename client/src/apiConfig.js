@@ -17,6 +17,6 @@ export const getApiUrl = () => {
         console.warn('CRITICAL: Detected localhost API URL in production. Overriding to relative path.');
         return ''; // Force relative path
     }
-
+    console.log(apiUrl);
     return apiUrl;
 };

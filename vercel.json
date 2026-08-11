@@ -4,14 +4,14 @@
     "buildCommand": "cd client && npm run build",
     "outputDirectory": "client/dist",
     "framework": null,
-    "rewrites": [
+    "builds": [
         {
-            "source": "/api/(.*)",
-            "destination": "/server/index.js"
+            "src": "api/index.js",
+            "use": "@vercel/node"
         },
         {
-            "source": "/(.*)",
-            "destination": "/client/dist/$1"
+            "src": "/(.*)",
+            "dest": "api/index.js"
         }
     ]
 }

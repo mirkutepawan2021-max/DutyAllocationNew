@@ -4,7 +4,7 @@
     "buildCommand": "cd client && npm run build",
     "outputDirectory": "client/dist",
     "framework": null,
-    "builds": [
+    "rewrites": [
         {
             "src": "api/index.js",
             "use": "@vercel/node"

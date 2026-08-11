@@ -1,22 +1,22 @@
 {
     "version": 2,
-    "builds": [
-        {
-            "src": "server.js",
-            "use": "@vercel/node"
+    "installCommand": "cd client && npm install && cd ../server && npm install",
+    "buildCommand": "cd client && npm run build",
+    "outputDirectory": "client/dist",
+    "functions": {
+        "server.js": {
+            "memory": 1024,
+            "maxDuration": 10
         }
-    ],
-    "routes": [
+    },
+    "rewrites": [
         {
-            "src": "/api/(.*)",
-            "dest": "server.js"
+            "source": "/api/(.*)",
+            "destination": "server.js"
         },
         {
-            "handle": "filesystem"
-        },
-        {
-            "src": "/(.*)",
-            "dest": "/index.html"
+            "source": "/(.*)",
+            "destination": "/client/dist/$1"
         }
     ]
 }

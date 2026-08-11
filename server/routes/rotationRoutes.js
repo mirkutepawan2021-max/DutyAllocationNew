@@ -1,10 +1,11 @@
 const express = require('express');
 const router = express.Router();
 const multer = require('multer');
-
+const path = require('path');
 // Save uploads temporarily to Vercel's writable /tmp folder
-const upload = multer({ dest: '/tmp/' });
-
+//const upload = multer({ dest: '/tmp/' });
+const os = require('os');
+const upload = multer({ dest: os.tmpdir() });
 const { parseRoster, generateNextRoster } = require('../services/rotationService');
 // const Roster = require('../models/RosterSchema'); // MongoDB Disabled
 const { saveRoster, getLatestRoster } = require('../services/fileStore');

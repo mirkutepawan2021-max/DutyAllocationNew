@@ -10,7 +10,7 @@
             "destination": "/api/index.js"
         },
         {
-            "src": "/(.*)",
+            "source": "/(.*)",
             "destination": "/client/dist/$1"
         }
     ]

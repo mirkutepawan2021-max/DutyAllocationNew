@@ -86053,5 +86053,26 @@
       }
     ],
     "createdAt": "2026-02-06T11:03:35.965Z"
+  },
+  {
+    "id": "1786438833567",
+    "month": "Current",
+    "year": 2026,
+    "type": "Current",
+    "data": [
+      {
+        "dutyNo": "1/1",
+        "time": "06:00",
+        "driverOff": "MON",
+        "conductorOff": "MON"
+      },
+      {
+        "dutyNo": "1/2",
+        "time": "07:30",
+        "driverOff": "TUE",
+        "conductorOff": "TUE"
+      }
+    ],
+    "createdAt": "2026-08-11T09:00:33.567Z"
   }
 ]

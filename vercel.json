@@ -3,16 +3,11 @@
     "installCommand": "cd client && npm install && cd ../server && npm install",
     "buildCommand": "cd client && npm run build",
     "outputDirectory": "client/dist",
-    "functions": {
-        "server.js": {
-            "memory": 1024,
-            "maxDuration": 10
-        }
-    },
+    "framework": null,
     "rewrites": [
         {
             "source": "/api/(.*)",
-            "destination": "/server.js"
+            "destination": "/server/index.js"
         },
         {
             "source": "/(.*)",

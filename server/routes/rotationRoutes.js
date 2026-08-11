@@ -1,7 +1,10 @@
 const express = require('express');
 const router = express.Router();
 const multer = require('multer');
-const upload = multer({ dest: 'uploads/' });
+
+// Save uploads temporarily to Vercel's writable /tmp folder
+const upload = multer({ dest: '/tmp/' });
+
 const { parseRoster, generateNextRoster } = require('../services/rotationService');
 // const Roster = require('../models/RosterSchema'); // MongoDB Disabled
 const { saveRoster, getLatestRoster } = require('../services/fileStore');
@@ -14,15 +17,16 @@ router.post('/upload', upload.single('rosterFile'), async (req, res) => {
             return res.status(400).json({ error: 'No file uploaded' });
         }
 
-        const filePath = req.file.path;
+        const filePath = req.file.path; // e.g., /tmp/a1b2c3d4...
         let rosterData;
         try {
             rosterData = parseRoster(filePath);
         } catch (e) {
-            return res.status(400).json({ error: 'Failed to parse file. Ensure it is a valid Excel/CSV.' });
+            console.error('Parse Error Detail:', e);
+            return res.status(400).json({ error: `Failed to parse file: ${e.message}` });
         }
 
-        // Clean up file
+        // Clean up temporary file from /tmp
         try { fs.unlinkSync(filePath); } catch (e) { }
 
         // Save Current Roster to JSON Store
@@ -68,8 +72,6 @@ router.post('/generate', async (req, res) => {
 });
 
 const { generateInitialRoster } = require('../services/smartAllocationService');
-
-// ... existing routes
 
 // Start Generation Route
 router.post('/init/generate', async (req, res) => {
